@@ -1,0 +1,23 @@
+{
+  "name": "spam-tx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SmoothBot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "nodeplotlib": "^1.1.2",
+    "plotly.js": "^3.0.0",
+    "plotly.js-dist": "^3.0.0",
+    "viem": "^2.23.10"
+  },
+  "devDependencies": {
+    "@types/plotly.js": "^2.35.2"
+  }
+}
